@@ -1,2 +1,2 @@
-# webpack-pratice
+# webpack-practice
 webpack练习
